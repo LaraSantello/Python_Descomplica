@@ -1,3 +1,1 @@
-# Python_Descomplica
-
-Curso realizado pela Descomplica para a especialização em Data Science na linguagem Python
+Especialização em Data Science (Descomplica) - Módulo 1/3 Repositório dedicado aos fundamentos da ciência de dados, abordando os tópicos relacionados à linguagem Python, Estatística, Lógica de Programação e Bancos de Dados.
